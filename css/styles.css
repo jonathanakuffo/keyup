@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 1rem;
+}
+.items-wrapper {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.item {
+    text-align: center;
+}

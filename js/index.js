@@ -43,7 +43,7 @@ products.forEach( product => {
        
 });
 
-
+function test() {}
 
 input.addEventListener("keyup",() => {
     
